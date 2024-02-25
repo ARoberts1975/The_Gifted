@@ -1,15 +1,13 @@
 #include <iostream>
 #include <string>
-#include "tgmenu.h"
+#include "tgtwo.h"
 
 using namespace std;
 
-int tgtwo()
-{
-
-string h = "The Gifted    -    Chapter 2    -    Page ";		// Chapter Header
-string p = "Chapter 2    -    Page ";						// Page header
-string t = "    ";											// 4 space tab
+int tgtwo(){
+string h = "The Gifted    -    Chapter 2    -    Page ";        // Chapter Header
+string p = "Chapter 2    -    Page ";        // Page header
+string t = "    ";        // 4 space tab
 int n = 0;
 
 	system ("cls");

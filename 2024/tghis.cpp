@@ -37,10 +37,10 @@ void tghis()
 	cout << "    Updated the code to Microsoft Visual Studio 2017" << endl;
 	cout << "    Modified the menu to eliminate irrelevant choices" << endl;
 	cout << "    Deleted Chapter 5 refrences, as there is no Chapter 5, yet" << endl;
-	cout << "" << endl;
-	cout << "" << endl;
-	cout << "" << endl;
-	cout << "" << endl;
+	cout << "02-25-2024" << endl;
+	cout << "    Reviewed the code" << endl;
+	cout << "    Updated the copyrights" << endl;
+	cout << "    Modified all the EOF characters to Unix style endings" << endl;
 	cout << "" << endl;
 	cout << "" << endl;
 	cout << "" << endl;

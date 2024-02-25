@@ -6,9 +6,9 @@ using namespace std;
 
 int tgpro()
 {
-string h = "The Gifted    -    Prologue    -    Page ";		// Chapter Header
-string p = "Prologue    -    Page ";						// Page header
-string t = "    ";											// 4 space tab
+string h = "The Gifted    -    Prologue    -    Page ";        // Chapter Header
+string p = "Prologue    -    Page ";        // Page header
+string t = "    ";        // 4 space tab
 int n = 1;
 	system ("cls");
 	cout << h;

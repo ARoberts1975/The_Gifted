@@ -7,9 +7,9 @@ using namespace std;
 int tgone()
 {
 
-string h = "The Gifted    -    Chapter 1    -    Page ";		// Chapter Header
-string p = "Chapter 1    -    Page ";						// Page header
-string t = "    ";											// 4 space tab
+string h = "The Gifted    -    Chapter 1    -    Page ";        // Chapter Header
+string p = "Chapter 1    -    Page ";        // Page header
+string t = "    ";        // 4 space tab
 int n = 0;
 
 	system ("cls");
