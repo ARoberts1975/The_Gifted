@@ -1,0 +1,29 @@
+#include <windows.h>
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "The Gifted.ico"
+
+1 VERSIONINFO
+FILEVERSION 0,1,2,120
+PRODUCTVERSION 0,1,2,120
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", "<homebrewed>"
+			 VALUE "FileVersion", "0.1.2.120"
+			 VALUE "FileDescription", "The Gifted By ADR."
+			 VALUE "InternalName", "TG"
+			 VALUE "LegalCopyright", "Copyright (C) 2012-2024 Allen Roberts. All Rights Reserved."
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "TG.exe"
+			 VALUE "ProductName", "The Gifted"
+			 VALUE "ProductVersion", "0.1.2.112"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
